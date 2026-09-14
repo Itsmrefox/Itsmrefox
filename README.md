@@ -10,11 +10,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:8B5CF6,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF%2C50:8B5CF6%2C100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:C77DFF,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7%2C50:C77DFF%2C100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
   />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:C77DFF,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
@@ -157,8 +157,8 @@
 <b>Languages</b>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py,r,js,ts,cpp,bash&theme=dark&perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,r,js,ts,cpp,bash&theme=light&perline=6" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=py%2Cr%2Cjs%2Cts%2Ccpp%2Cbash&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cr%2Cjs%2Cts%2Ccpp%2Cbash&theme=light&perline=6" />
   <img src="https://skillicons.dev/icons?i=py,r,js,ts,cpp,bash&theme=light&perline=6" alt="Languages" />
 </picture>
 
@@ -167,8 +167,8 @@
 <b>Data &amp; Analysis</b>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,sklearn,anaconda,latex&theme=dark&perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,sklearn,anaconda,latex&theme=light&perline=6" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Csqlite%2Csklearn%2Canaconda%2Clatex&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Csqlite%2Csklearn%2Canaconda%2Clatex&theme=light&perline=6" />
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,sklearn,anaconda,latex&theme=light&perline=6" alt="Data and analysis" />
 </picture>
 
@@ -177,8 +177,8 @@
 <b>Infrastructure</b>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,powershell&theme=dark&perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,powershell&theme=light&perline=6" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=docker%2Cgit%2Cgithub%2Cgithubactions%2Clinux%2Cpowershell&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgit%2Cgithub%2Cgithubactions%2Clinux%2Cpowershell&theme=light&perline=6" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,powershell&theme=light&perline=6" alt="Infrastructure" />
 </picture>
 
@@ -187,8 +187,8 @@
 <b>Tools</b>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=vscode,notion,obsidian,figma&theme=dark&perline=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,notion,obsidian,figma&theme=light&perline=4" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=vscode%2Cnotion%2Cobsidian%2Cfigma&theme=dark&perline=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode%2Cnotion%2Cobsidian%2Cfigma&theme=light&perline=4" />
   <img src="https://skillicons.dev/icons?i=vscode,notion,obsidian,figma&theme=light&perline=4" alt="Tools" />
 </picture>
 
@@ -357,11 +357,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:A855F7,100:10061F&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF%2C50:A855F7%2C100:10061F&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:A855F7,100:2E1065&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF%2C50:A855F7%2C100:2E1065&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
   />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:A855F7,100:2E1065&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
