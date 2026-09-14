@@ -103,20 +103,21 @@
         clever — provenance, reproducibility, and a schema you can defend.
       </p>
       <p>
-        🌱 &nbsp;Learning <b>[TECH_ONE]</b>, <b>[TECH_TWO]</b> and <b>[TECH_THREE]</b>.
+        🌱 &nbsp;Learning <b>market analysis</b>, <b>programming</b> and <b>system design</b>.
       </p>
       <p>
         💬 &nbsp;Ask me about <b>SQL modelling</b>, <b>data pipelines</b> or
         <b>point-in-time design</b>.
       </p>
       <p>
-        🤝 &nbsp;Open to collaborating on <b>[COLLABORATION_INTERESTS]</b>.
+        🤝 &nbsp;Open to collaborating on <b>anything new and genuinely challenging</b>.
       </p>
       <p>
         📫 &nbsp;Reach me at <b><a href="mailto:[YOUR_EMAIL]">[YOUR_EMAIL]</a></b>.
       </p>
       <p>
-        ⚡ &nbsp;Fun fact: <b>[YOUR_FUN_FACT]</b>.
+        ⚡ &nbsp;Fun fact: the more precisely we measure something, the more we find out
+        how much we had <b>over-measured</b> it in the first place. Which is deeply ironic.
       </p>
       <br/>
     </td>
