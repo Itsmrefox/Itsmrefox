@@ -119,12 +119,11 @@
       <br/>
     </td>
     <td width="35%" valign="middle" align="center">
-      <!-- Swap this for your own image: commit a file to the repo and point at it,
-           e.g. src="assets/about.png" -->
+      <!-- Animated SVG, hosted in this repo at assets/data.svg -->
       <img
-        src="https://capsule-render.vercel.app/api?type=soft&color=0:C77DFF,100:A855F7&height=260&section=header&text=%F0%9F%93%8A&fontSize=90&fontAlignY=52"
+        src="https://raw.githubusercontent.com/Itsmrefox/Itsmrefox/main/assets/data.svg"
         width="100%"
-        alt="Illustration placeholder"
+        alt="Animated data visualisation"
       />
     </td>
   </tr>
@@ -308,7 +307,7 @@
 
 <div align="center">
 
-<h2>💌 &nbsp;Let's Connect&nbsp; 💌</h2>
+<h2>Let's Connect</h2>
 
 <p><em>I'm one message away — say hi 👋</em></p>
 
