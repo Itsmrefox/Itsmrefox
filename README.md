@@ -113,9 +113,6 @@
         🤝 &nbsp;Open to collaborating on <b>anything new and genuinely challenging</b>.
       </p>
       <p>
-        📫 &nbsp;Reach me at <b><a href="mailto:[YOUR_EMAIL]">[YOUR_EMAIL]</a></b>.
-      </p>
-      <p>
         ⚡ &nbsp;Fun fact: the more precisely we measure something, the more we find out
         how much we had <b>over-measured</b> it in the first place. Which is deeply ironic.
       </p>
@@ -319,28 +316,6 @@
 
 <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://x.com/[YOUR_X_HANDLE]" target="_blank">
-  <img src="https://img.shields.io/badge/X-C77DFF?style=for-the-badge&logo=x&logoColor=3B0764" alt="X" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM]" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-B026FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK]" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-A855F7?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE]" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-B026FF?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-&nbsp;
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=3B0764" alt="Email" />
 </a>
 
 <br/><br/>
