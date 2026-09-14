@@ -212,6 +212,11 @@
 
 <br/>
 
+<!--
+  The github-readme-stats public instance is rate-limited / down as of 2026-09-14
+  (HTTP 503 for every user, not just this account). Uncomment the two cards below
+  once https://github-readme-stats.vercel.app/api?username=Itsmrefox returns an SVG.
+
 <img
   height="165"
   src="https://github-readme-stats.vercel.app/api?username=Itsmrefox&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=EF93C4&icon_color=F8BBD0&include_all_commits=true&count_private=true"
@@ -225,6 +230,7 @@
 />
 
 <br/><br/>
+-->
 
 <img
   height="180"
