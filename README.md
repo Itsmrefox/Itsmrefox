@@ -313,7 +313,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
+<a href="https://www.linkedin.com/in/erfan-naderi-adergani" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
