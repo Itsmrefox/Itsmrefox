@@ -10,14 +10,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:10061F,50:A855F7,100:B026FF&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:8B5CF6,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:C77DFF,100:A855F7&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:C77DFF,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:C77DFF,100:A855F7&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:C77DFF,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
     alt="Decorative gradient banner"
     width="100%"
   />
