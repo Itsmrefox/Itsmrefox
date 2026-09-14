@@ -10,14 +10,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF%2C50:8B5CF6%2C100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:64748B%2C50:334155%2C100:A855F7&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7%2C50:C77DFF%2C100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:94A3B8%2C50:475569%2C100:A855F7&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:C77DFF,100:2E1065&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:94A3B8,50:475569,100:A855F7&height=240&section=header&text=%20&fontSize=0&animation=fadeIn"
     alt="Decorative gradient banner"
     width="100%"
   />
@@ -50,28 +50,28 @@
 <p>
   <a href="https://github.com/Itsmrefox?tab=followers">
     <img
-      src="https://img.shields.io/github/followers/Itsmrefox?label=Followers&style=for-the-badge&logo=github&logoColor=3B0764&color=A855F7&labelColor=EDE9FE"
+      src="https://img.shields.io/github/followers/Itsmrefox?label=Followers&style=for-the-badge&logo=github&logoColor=CBD5E1&color=64748B&labelColor=334155"
       alt="GitHub followers"
     />
   </a>
   &nbsp;
   <a href="https://github.com/Itsmrefox?tab=repositories">
     <img
-      src="https://img.shields.io/github/stars/Itsmrefox?label=Stars&style=for-the-badge&logo=starship&logoColor=3B0764&color=C77DFF&labelColor=EDE9FE"
+      src="https://img.shields.io/github/stars/Itsmrefox?label=Stars&style=for-the-badge&logo=starship&logoColor=CBD5E1&color=64748B&labelColor=334155"
       alt="Total stars"
     />
   </a>
   &nbsp;
   <a href="https://github.com/Itsmrefox">
     <img
-      src="https://komarev.com/ghpvc/?username=Itsmrefox&label=Profile+Views&style=for-the-badge&color=B026FF"
+      src="https://komarev.com/ghpvc/?username=Itsmrefox&label=Profile+Views&style=for-the-badge&color=64748B"
       alt="Profile views"
     />
   </a>
 </p>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:C77DFF,50:A855F7,100:B026FF&height=3&section=header"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:64748B,100:334155&height=3&section=header"
   width="100%"
   alt="divider"
 />
@@ -133,7 +133,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:A855F7,100:C77DFF&height=3&section=header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:64748B,100:334155&height=3&section=header"
     width="100%"
     alt="divider"
   />
@@ -192,7 +192,7 @@
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:C77DFF,50:A855F7,100:B026FF&height=3&section=header"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:64748B,100:334155&height=3&section=header"
   width="100%"
   alt="divider"
 />
@@ -216,13 +216,13 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Itsmrefox&show_icons=true&hide_border=true&bg_color=00000000&title_color=B026FF&text_color=A855F7&icon_color=C77DFF&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=Itsmrefox&show_icons=true&hide_border=true&bg_color=00000000&title_color=CBD5E1&text_color=94A3B8&icon_color=A855F7&include_all_commits=true&count_private=true"
   alt="GitHub stats"
 />
 &nbsp;&nbsp;
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmrefox&layout=compact&hide_border=true&bg_color=00000000&title_color=B026FF&text_color=A855F7&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmrefox&layout=compact&hide_border=true&bg_color=00000000&title_color=CBD5E1&text_color=94A3B8&langs_count=8"
   alt="Most used languages"
 />
 
@@ -231,7 +231,7 @@
 
 <img
   height="180"
-  src="https://streak-stats.demolab.com?user=Itsmrefox&hide_border=true&background=00000000&stroke=C77DFF&ring=B026FF&fire=B026FF&currStreakNum=B026FF&currStreakLabel=A855F7&sideNums=A855F7&sideLabels=A855F7&dates=C77DFF"
+  src="https://streak-stats.demolab.com?user=Itsmrefox&hide_border=true&background=00000000&stroke=334155&ring=A855F7&fire=A855F7&currStreakNum=A855F7&currStreakLabel=94A3B8&sideNums=CBD5E1&sideLabels=94A3B8&dates=64748B"
   alt="GitHub streak"
 />
 
@@ -239,14 +239,14 @@
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph-eight.vercel.app/graph?username=Itsmrefox&bg_color=00000000&color=B026FF&title_color=B026FF&line=A855F7&point=C77DFF&area=true&area_color=C77DFF&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph-eight.vercel.app/graph?username=Itsmrefox&bg_color=00000000&color=CBD5E1&title_color=CBD5E1&line=64748B&point=A855F7&area=true&area_color=334155&hide_border=true&custom_title=Contribution%20Activity"
   alt="Contribution activity graph"
 />
 
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:A855F7,100:C77DFF&height=3&section=header"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:64748B,100:334155&height=3&section=header"
   width="100%"
   alt="divider"
 />
@@ -294,7 +294,7 @@
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:C77DFF,50:A855F7,100:B026FF&height=3&section=header"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:64748B,100:334155&height=3&section=header"
   width="100%"
   alt="divider"
 />
@@ -332,14 +332,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF%2C50:A855F7%2C100:10061F&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:64748B%2C50:334155%2C100:1E1B2E&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF%2C50:A855F7%2C100:2E1065&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:64748B%2C50:334155%2C100:1E1B2E&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:A855F7,100:2E1065&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,50:334155,100:1E1B2E&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"
     alt="Waving footer"
     width="100%"
   />
